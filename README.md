@@ -2,4 +2,4 @@
 a noob's repository
 
 currently involves:
-  推箱子Push the box
+  推箱子Push the box（地图是通过二维数组瞎打的！目前还不会通过文件导入地图）
